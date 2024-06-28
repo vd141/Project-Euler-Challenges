@@ -26,4 +26,4 @@ def find_largest_palindrome():
                 palindromes.append(x*y)
     return max(palindromes)
 
-print(find_largest_palindrome())
+print(find_largest_palindrome(), ':)')
